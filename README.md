@@ -19,9 +19,8 @@
   
 </p>
 
-<span align="center">
-  ![Push Container to Heroku](https://github.com/eduardoao/the-wishlist-project/workflows/Push%20Container%20to%20Heroku/badge.svg)
-<span>
+ ![Push Container to Heroku](https://github.com/eduardoao/the-wishlist-project/workflows/Push%20Container%20to%20Heroku/badge.svg)
+
   
 <hr>
 
