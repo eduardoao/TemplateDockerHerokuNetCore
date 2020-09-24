@@ -36,6 +36,11 @@ The purpose of this solution is to present how to use **docker on the Heroku pla
 	Select 🚀 ...  
 </h4>
 
+# Tecnologies 
+C#
+Heroku
+Docker
+
 ##Page sample. 
 https://the-wishlist-project.herokuapp.com/swagger/index.html
 
