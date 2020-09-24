@@ -23,4 +23,4 @@ COPY --from=publish /app/publish .
 
 
 # heroku uses the following
-CMD ASPNETCORE_URLS=http://*:$PORT dotnet SampleHerokuContainer.Api.dll
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet SampleHerokuContainer.dll
