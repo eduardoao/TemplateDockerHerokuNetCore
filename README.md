@@ -56,12 +56,12 @@ docker build -t sampleherokucontainer .
 docker run -d -p 8080:80 --name abc sampleherokucontainer
 
 #Releasing to Heroku
-<li>
+<ul>
 	<ol> heroku container:login </ol>
 	<ol>docker build -t sampleherokucontainer .</ol>
 	<ol> heroku container:push -a YourAppName web</ol>
 	<ol>heroku container:release -a YourAppName web</ol>
-</li>
+</ul>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eduardoao)
