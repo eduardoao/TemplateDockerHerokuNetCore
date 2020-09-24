@@ -37,18 +37,32 @@ The purpose of this solution is to present how to use **docker on the Heroku pla
 </h4>
 
 # Tecnologies 
-C#
-Heroku
+C#,
+Heroku,
 Docker
 
 ##Page sample. 
 https://the-wishlist-project.herokuapp.com/swagger/index.html
 
+<hr>
 
 ## GitHub Repositories
 <img  src="https://github-readme-stats.vercel.app/api?username=eduardoao&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs">
 
 <hr>
+
+# Steps for public it in heroku (manual)
+docker build -t sampleherokucontainer .
+docker run -d -p 8080:80 --name abc sampleherokucontainer
+
+#Releasing to Heroku
+<li>
+	<ol> heroku container:login </ol>
+	<ol>docker build -t sampleherokucontainer .</ol>
+	<ol> heroku container:push -a YourAppName web</ol>
+	<ol>heroku container:release -a YourAppName web</ol>
+</li>
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eduardoao)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-alcantara-de-oliveira-mcp-mcts-mcdba-58454712/)
