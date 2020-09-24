@@ -2,8 +2,6 @@
 
 
 <p align="center">
-    
-  ![Push Container to Heroku](https://github.com/eduardoao/the-wishlist-project/workflows/Push%20Container%20to%20Heroku/badge.svg)
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
 
@@ -18,7 +16,10 @@
    <a href="https://github.com/eduardoao/sampleherokucontainer/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/eduardoao/sampleherokucontainer?style=social">
   </a>
+  
 </p>
+
+  ![Push Container to Heroku](https://github.com/eduardoao/the-wishlist-project/workflows/Push%20Container%20to%20Heroku/badge.svg)
 
 <hr>
 
@@ -27,32 +28,11 @@
 </h1>
 
 
-# # Wishlist
-
-O objetivo deste repositório é disponibilizar uma API que realize o gerenciamento de clientes, produtos e lista de produtos favoritos por cliente. 
-
-
-# Requisitos
-
- - Criação de endpoints para **C**riar, **A**tualizar, **V**isualizar e **R**emover **clientes**;
- - Criação de endpoint para criação da lista de desejo do cliente;
- - A lista de produtos já esta disponivel no sistema;
- - O acesso a API deve possuir autenticação e autorização.
+# SampleHerokuContainer 
+The purpose of this solution is to present how to use **docker on the Heroku platform. Also using github Action**. 
 
 
 
-
-
-## Instalação e configuração de ambiente
-O projeto utiliza as seguintes dependências: 
-
-AutoMapper
-FluentValidation
-Dapper
-Dapper.Contrib
-Microsoft.EntityFrameworkCore
-Microsoft.EntityFrameworkCore.Design
-Moq
 
 ##Pagina de publicação da solução. 
 https://the-wishlist-project.herokuapp.com/swagger/index.html
