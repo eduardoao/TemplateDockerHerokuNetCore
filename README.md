@@ -1,6 +1,14 @@
 
 ![Push Container to Heroku](https://github.com/eduardoao/the-wishlist-project/workflows/Push%20Container%20to%20Heroku/badge.svg)
 
+## GitHub Repositories
+<img  src="https://github-readme-stats.vercel.app/api?username=eduardoao&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs">
+
+<h1 align="center">
+    <img alt="SampleHeroContainer" title="#SampleHeroContainer" src="./img/herokudocker1.jpg" />
+</h1>
+
+
 # # Wishlist
 
 O objetivo deste repositório é disponibilizar uma API que realize o gerenciamento de clientes, produtos e lista de produtos favoritos por cliente. 
@@ -14,7 +22,7 @@ O objetivo deste repositório é disponibilizar uma API que realize o gerenciame
  - O acesso a API deve possuir autenticação e autorização.
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=eduardoao&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs">
+
 
 
 ## Instalação e configuração de ambiente
