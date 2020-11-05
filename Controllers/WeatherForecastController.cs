@@ -13,7 +13,7 @@ namespace SampleHerokuContainer.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing23", "B56acing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing23", "Hummmm cool", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
